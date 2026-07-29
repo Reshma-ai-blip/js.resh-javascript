@@ -73,6 +73,3 @@ users[1].email
     "price": "free"
  }*/
 
-[
-    
-]
